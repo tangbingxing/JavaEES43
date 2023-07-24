@@ -1,6 +1,9 @@
 package com.tangbingxing.homeWork.demo3;
 
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashSet;
+import java.util.TreeSet;
 
 /**
  * @Classname Test3_2
@@ -13,7 +16,7 @@ import java.util.HashSet;
 public class Test3_2 {
     public static void main(String[] args) {
         //定义一个存储Student类型的HashSet集合
-        HashSet<Student> students = new HashSet<Student>();
+        TreeSet<Student> students = new TreeSet<Student>();
         //创建以下三个Student对象
         //张三,男,20
         //李四,女,21
