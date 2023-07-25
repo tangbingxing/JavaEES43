@@ -1,8 +1,6 @@
-package com.tangbingxing.homeWork.demo1;
+package com.tangbingxing.homeWork.demo1_File;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 
 /**
  * 请将`Lambda`表达式作为`Arrays.sort`排序的第二个参数，实现对`Student`对象的排序。

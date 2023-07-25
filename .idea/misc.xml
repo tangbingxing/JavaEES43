@@ -10,10 +10,11 @@
         <option value="$PROJECT_DIR$/day06/pom.xml" />
         <option value="$PROJECT_DIR$/day07/pom.xml" />
         <option value="$PROJECT_DIR$/Exam-20230722/pom.xml" />
+        <option value="$PROJECT_DIR$/day08/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
