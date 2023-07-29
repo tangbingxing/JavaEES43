@@ -1,6 +1,5 @@
 package com.tangbingxing.testTreeSet;
 
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.TreeSet;
 

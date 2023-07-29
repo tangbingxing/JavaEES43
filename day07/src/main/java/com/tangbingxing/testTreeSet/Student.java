@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /**
  * @Classname Student
- * @Description TODO
+ * @Description 学生类
  * @Version 1.0.0
  * @Date 2023/7/21 17:04
  * @Created by m1346

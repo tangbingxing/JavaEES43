@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<购物车 xmlns="http://www.tangbingxing.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.tangbingxing.com testSchema.xsd" >
+    <订单>
+        <下单日期>2017-01-01</下单日期>
+        <收件人地址信息>
+            <收件人名称>张三胖</收件人名称>
+            <收件人地址>北京海淀区五道口18号</收件人地址>
+        </收件人地址信息>
+        <商品>
+            <商品名称>华为手机</商品名称>
+            <购买数量>2</购买数量>
+            <商品单价金额>1999</商品单价金额>
+        </商品>
+        <商品>
+            <商品名称>金士顿U盘</商品名称>
+            <购买数量>3</购买数量>
+            <商品单价金额>30.0</商品单价金额>
+        </商品>
+    </订单>
+</购物车>
