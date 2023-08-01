@@ -25,7 +25,7 @@ public class Test3 {
                 new ArrayBlockingQueue<>(5),
                 Executors.defaultThreadFactory(),
                 new ThreadPoolExecutor.DiscardOldestPolicy());
-        //执行Runnable任务
+        //创建Runnable任务
         pool.execute(new Runnable() {
             @Override
             public void run() {
