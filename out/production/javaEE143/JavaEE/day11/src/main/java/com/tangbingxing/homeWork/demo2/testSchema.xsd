@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+复制内容如下到XML文件中:
+<购物车 xmlns="http://www.tangbingxing.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.tangbingxing.com testSchema.xsd" >
+-->
+
+<xs:schema
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.tangbingxing.com"
+        elementFormDefault="qualified">
+
+    <!--定义根标签购物车-->
+    <xs:element name="购物车">
+        <!--定义根标签下的子标签-->
+        <xs:complexType>
+            <xs:sequence maxOccurs="unbounded" minOccurs="0">
+                <xs:element name="订单">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!--定义订单下的子标签-->
+                            <xs:element name="下单日期"/>
+                            <xs:element name="收件人地址信息">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="收件人名称" type="xs:string"/>
+                                        <xs:element name="收件人地址" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="商品" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="商品名称" type="xs:string"/>
+                                        <xs:element name="购买数量" type="xs:integer"/>
+                                        <xs:element name="商品单价金额" type="xs:double"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

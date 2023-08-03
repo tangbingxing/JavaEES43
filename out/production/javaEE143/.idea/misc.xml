@@ -15,10 +15,22 @@
         <option value="$PROJECT_DIR$/day10/pom.xml" />
         <option value="$PROJECT_DIR$/day11/pom.xml" />
         <option value="$PROJECT_DIR$/day12/pom.xml" />
+        <option value="$PROJECT_DIR$/day13/pom.xml" />
+        <option value="$PROJECT_DIR$/day14/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam-20230802/pom.xml" />
+        <option value="$PROJECT_DIR$/Web/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaEE/day03/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/JavaWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/Web/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

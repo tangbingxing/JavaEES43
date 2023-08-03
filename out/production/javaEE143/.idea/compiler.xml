@@ -7,18 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="day03" />
-        <module name="day12" />
-        <module name="day11" />
-        <module name="day10" />
-        <module name="day09" />
-        <module name="day08" />
-        <module name="day07" />
-        <module name="Exam-20230722" />
-        <module name="day06" />
-        <module name="day05" />
-        <module name="day04" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="17">
+      <module name="day04" target="17" />
+      <module name="day05" target="17" />
+      <module name="day06" target="17" />
+      <module name="day07" target="17" />
+      <module name="day08" target="17" />
+      <module name="day09" target="17" />
+      <module name="day10" target="17" />
+      <module name="day11" target="17" />
+      <module name="day12" target="17" />
+      <module name="day13" target="17" />
+      <module name="day14" target="17" />
+      <module name="Exam-20230722" target="17" />
+      <module name="Exam-20230802" target="17" />
+      <module name="JavaWeb" target="17" />
+      <module name="Web" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

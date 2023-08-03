@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/javaEE143.iml" filepath="$PROJECT_DIR$/javaEE143.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Exam-20230722/Exam-20230722.iml" filepath="$PROJECT_DIR$/JavaEE/Exam-20230722/Exam-20230722.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Exam-20230802/Exam-20230802.iml" filepath="$PROJECT_DIR$/JavaEE/Exam-20230802/Exam-20230802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE/JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day01/day01.iml" filepath="$PROJECT_DIR$/JavaWeb/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day02.iml" filepath="$PROJECT_DIR$/JavaWeb/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/day03_Ajax_Vue_Element.iml" filepath="$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/day03_Ajax_Vue_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day04/day04.iml" filepath="$PROJECT_DIR$/JavaEE/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day04_Maven_SpringBot/day04_Maven_SpringBot.iml" filepath="$PROJECT_DIR$/JavaWeb/day04_Maven_SpringBot/day04_Maven_SpringBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day05/day05.iml" filepath="$PROJECT_DIR$/JavaEE/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day05_IOC_DI/day05_IOC_DI.iml" filepath="$PROJECT_DIR$/JavaWeb/day05_IOC_DI/day05_IOC_DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day06/day06.iml" filepath="$PROJECT_DIR$/JavaEE/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day06_MySQL_DDL_DML/day06_MySQL_DDL_DML.iml" filepath="$PROJECT_DIR$/JavaWeb/day06_MySQL_DDL_DML/day06_MySQL_DDL_DML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day07/day07.iml" filepath="$PROJECT_DIR$/JavaEE/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day07_MySQL_DQL/day07_MySQL_DQL.iml" filepath="$PROJECT_DIR$/JavaWeb/day07_MySQL_DQL/day07_MySQL_DQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day08/day08.iml" filepath="$PROJECT_DIR$/JavaEE/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day09/day09.iml" filepath="$PROJECT_DIR$/JavaEE/day09/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day10/day10.iml" filepath="$PROJECT_DIR$/JavaEE/day10/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day11/day11.iml" filepath="$PROJECT_DIR$/JavaEE/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day12/day12.iml" filepath="$PROJECT_DIR$/JavaEE/day12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day13/day13.iml" filepath="$PROJECT_DIR$/JavaEE/day13/day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/day14/day14.iml" filepath="$PROJECT_DIR$/JavaEE/day14/day14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day05_IOC_DI/springboot-web-req-resp-homework/springboot-web-req-resp-homework.iml" filepath="$PROJECT_DIR$/JavaWeb/day05_IOC_DI/springboot-web-req-resp-homework/springboot-web-req-resp-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/vue-project-demo1.iml" filepath="$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/vue-project-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/vue-project-demo2.iml" filepath="$PROJECT_DIR$/JavaWeb/day03_Ajax_Vue_Element/vue-project-demo2.iml" />
     </modules>
   </component>
 </project>

@@ -6,20 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springBotQickStrart02" />
+        <module name="springBotQickStrart03" />
+        <module name="springBotQickStrart (1)" />
+        <module name="day09" />
+        <module name="day08" />
+        <module name="day07" />
+        <module name="day06" />
+        <module name="day05" />
+        <module name="day04" />
         <module name="day03" />
+        <module name="day14" />
         <module name="day13" />
         <module name="day12" />
         <module name="day11" />
         <module name="day10" />
-        <module name="day09" />
-        <module name="day08" />
-        <module name="day07" />
+        <module name="homeWorkDemo1" />
         <module name="Exam-20230722" />
-        <module name="day06" />
-        <module name="day05" />
-        <module name="day04" />
+        <module name="springboot-web-req-resp-homework" />
+        <module name="Exam-20230802" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="17">
+      <module name="day04_Maven_SpringBot" target="17" />
+      <module name="springBotQickStrart" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="homeWorkDemo1" options="-parameters" />
+      <module name="springBotQickStrart" options="-parameters" />
+      <module name="springBotQickStrart (1)" options="-parameters" />
+      <module name="springBotQickStrart02" options="-parameters" />
+      <module name="springBotQickStrart03" options="-parameters" />
+      <module name="springboot-web-req-resp-homework" options="-parameters" />
+    </option>
   </component>
 </project>

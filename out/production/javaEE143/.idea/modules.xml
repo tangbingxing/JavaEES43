@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/day01/day01.iml" filepath="$PROJECT_DIR$/JavaWeb/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEE143.iml" filepath="$PROJECT_DIR$/javaEE143.iml" />
     </modules>
   </component>
