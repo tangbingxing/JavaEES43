@@ -11,6 +11,7 @@
         <module name="springBotQickStrart (2)" />
         <module name="springBotQickStrart (1)" />
         <module name="day09" />
+        <module name="day10_Tlias" />
         <module name="day08" />
         <module name="day07" />
         <module name="day06" />
@@ -20,11 +21,13 @@
         <module name="day14" />
         <module name="day13" />
         <module name="day12" />
+        <module name="day09_MyBatis_Homework02" />
         <module name="day11" />
         <module name="day10" />
         <module name="homeWorkDemo1" />
-        <module name="home_work03" />
         <module name="day08_homework03" />
+        <module name="day09_MyBatis_CrudDemo" />
+        <module name="day11_Tlias" />
         <module name="Exam-20230722" />
         <module name="springboot-web-req-resp-homework" />
         <module name="Exam-20230802" />
@@ -32,13 +35,23 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
       <module name="day04_Maven_SpringBot" target="17" />
+      <module name="day09-Web-TestDemo" target="17" />
+      <module name="day09_MyBaties" target="17" />
+      <module name="home_work03" target="17" />
       <module name="springBotQickStrart" target="17" />
       <module name="springBotQickStrart03" target="17" />
+      <module name="testDemo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="day08_homework03" options="-parameters" />
+      <module name="day09-Web-TestDemo" options="-parameters" />
+      <module name="day09_MyBaties" options="-parameters" />
+      <module name="day09_MyBatis_CrudDemo" options="-parameters" />
+      <module name="day09_MyBatis_Homework02" options="-parameters" />
+      <module name="day10_Tlias" options="-parameters" />
+      <module name="day11_Tlias" options="-parameters" />
       <module name="homeWorkDemo1" options="-parameters" />
       <module name="home_work03" options="-parameters" />
       <module name="springBotQickStrart" options="-parameters" />
@@ -47,6 +60,7 @@
       <module name="springBotQickStrart02" options="-parameters" />
       <module name="springBotQickStrart03" options="-parameters" />
       <module name="springboot-web-req-resp-homework" options="-parameters" />
+      <module name="testDemo" options="-parameters" />
     </option>
   </component>
 </project>

@@ -44,10 +44,20 @@
         <option value="$PROJECT_DIR$/JavaWeb/day08_DQL_MyBaties/home_work03/pom.xml" />
         <option value="$PROJECT_DIR$/JavaWeb/day08_DQL_MyBatis/home_work03/pom.xml" />
         <option value="$PROJECT_DIR$/JavaWeb/day08_DQL_MyBatis/day08_homework03/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBaties/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBaties/TestDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBatis/day09_MyBatis_CrudDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBatis/day09_MyBatis_Homework02/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBatis/testDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day10_SpringBootProject/day10_Tlist/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day10_SpringBootProject/day10_Tlias/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day11_SrpingBootProject_2/day11_Tlias/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/JavaWeb/day08_DQL_MyBatis/home_work03/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWeb/day09_MyBatis/testDemo/pom.xml" />
         <option value="$PROJECT_DIR$/JavaWeb/pom.xml" />
         <option value="$PROJECT_DIR$/Web/pom.xml" />
       </set>
